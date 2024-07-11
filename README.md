@@ -2,7 +2,38 @@
 
 ## Description
 
-A food ordering application built with a React frontend and a Node.js backend using MongoDB for data storage.
+A food ordering application built with a React frontend and a Node.js backend using MongoDB for data storage. It utilizes MongoDB for data storage and includes features such as user authentication, menu management, order handling, and more.
+
+![image-home](https://github.com/Shradhashukla9/MERN_FoodWebsite/assets/149618444/7c6db9a1-4850-4749-b6ce-b7f968adcebb)
+
+![image2-menu](https://github.com/Shradhashukla9/MERN_FoodWebsite/assets/149618444/45cd1eef-ce6d-459c-a5ca-f820ad75040e)
+
+## Features
+- **Authentication**: 
+  - User signup and login functionality with authentication.
+  - Secure password hashing(bcrypt) and validation.
+  - Protected routes for authenticated users.
+
+- **Menu Management**: 
+  - CRUD operations for managing restaurant menu items.
+  - Admin dashboard for menu item management.
+
+- **Order Management**: 
+  - Placing and managing orders.
+  - Order status tracking and updates.
+
+- **Data Storage**: 
+  - MongoDB integration for storing menu items and orders.
+  - Mongoose for modeling data schemas.
+ 
+- **Responsive Design**: 
+  - The application is designed to be responsive and adapt seamlessly to different screen sizes and devices.
+  - Utilizes responsive design principles with CSS media queries and flexible layout components.
+
+- **User Interface**: 
+  - Responsive UI design using Material-UI components.
+  - Form validation and error handling.
+  - Interactive features for order submission and menu updates.
 
 ## Tools and Technologies
 
